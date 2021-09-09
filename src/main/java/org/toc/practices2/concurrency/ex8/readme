@@ -1,0 +1,2 @@
+This example explains the problem of multiple access to a single shared resource.
+Problem solved by the AtomicReference.
